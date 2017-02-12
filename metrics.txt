@@ -1,0 +1,11 @@
+Metrics for model with params 
+{'reg_alpha': 5, 'colsample_bytree': 0.6, 'silent': 1, 'colsample_bylevel': 1, 'scale_pos_weight': 1, 'learning_rate': 0.012, 'missing': None, 'max_delta_step': 0, 'base_score': 0.5, 'n_estimators': 1000, 'subsample': 0.62, 'reg_lambda': 1, 'seed': 1, 'min_child_weight': 4, 'objective': 'binary:logistic', 'max_depth': 7, 'gamma': 0}
+
+FOLD 	 ACCURACY 	 LOG_LOSS 	
+1 	 0.674124513619 	 11.2553904927 	 
+2 	 0.698054474708 	 10.4288843622 	 
+3 	 0.678925861062 	 11.0895464783 	 
+4 	 0.682428488033 	 10.9686020809 	 
+5 	 0.671531426348 	 11.3450053102 	 
+
+Over-all accuracy : 0.681012952754
