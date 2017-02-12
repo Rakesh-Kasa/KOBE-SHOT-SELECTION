@@ -8,4 +8,4 @@ FOLD 	 ACCURACY
 4 	 0.682428488033  	 
 5 	 0.671531426348  	 
 
-Over-all accuracy : 0.681012952754
+Over-all accuracy : 0.681012952754 
