@@ -20,6 +20,7 @@ import logging
 import os
 
 logging.basicConfig(format='%(asctime)s %(message)s',filename=os.getcwd()+"\\main.log")
+logging.setlevel(logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 def getDummies(data,features) :
