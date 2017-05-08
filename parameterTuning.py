@@ -2,6 +2,7 @@ import logging
 from sklearn.model_selection import GridSearchCV
 
 logging.basicConfig(filename="gridsearch.log")
+logging.setlevel(logging.DEBUG)
 logger = logging.getLogger(__name__)
 class Tuning() :
     def __init__(self,model,params) :
